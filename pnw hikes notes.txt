@@ -1,0 +1,53 @@
+COLORS:
+
+nav bar BG- #d2ded9
+
+section divider BG & footer BG- #3b6670
+
+Text colors - #33384c (dark)  & #acc6be (light green)
+
+
+Font: https://fonts.google.com/specimen/Gothic+A1 
+(closest google font to what was actually used…)
+WEIGHTS: Black & medium (or regular)
+
+
+
+
+
+BODY COPY:
+
+Log All Your Hiking Activity
+and Find Your Next Hike 
+
+Share, save and download
+maps of all available hikes
+
+Trip reports and photos
+help you find the right hike
+
+Feature lists of all hikes,
+so you know what to expect
+
+Recent Trip Reports
+
+North Cascades National Park
+
+Crystal Peak Summit
+
+Goat Peak
+
+Mt. Aix
+
+INFO@PNWHIKES.COM
+
+
+
+
+OTHER NOTES:
+background images need opacity knocked down via CSS
+BG1=68%   BG2=39%
+
+Nav bar should stay static at the top 
+
+Extra credit if any of us can pull off a parallax scrolling effect with the background images (we'd have to make them a bit larger but I know it's possible!)
