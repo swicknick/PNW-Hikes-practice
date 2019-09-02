@@ -123,45 +123,81 @@ nav a:hover {
     text-decoration: none;
 }
 
+.recentTrip {
+    color: #33384c;
+    font-size: 46px;
+    text-decoration: none;
+    text-align: center;
+}
+
+
 .gridSection {
     background-image: url("img/bg2.png");
 }
 
-.cascades {
-
-}
-
 .square1 {
+    float: left;
+    color: #3b6670;
+    font-size: 25px;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 5.5%;
 
 }
 
-.crystal {
+
+.cascades {
+    width: 540px;
 
 }
 
 .square2 {
+    color: #3b6670;
+    font-size: 25px;
+    text-decoration: none;
+    text-align: center;
+
+
+}
+
+.crystal {
+    width: 540px;
+
+}
+
+.square3 {
+    float: left;
+    color: #3b6670;
+    font-size: 25px;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 5.5%;
+
 
 }
 
 .goatPeak {
-
-}
-.square3 {
-
-}
-
-.aix {
+    width: 540px;
 
 }
 
 .square4 {
+    color: #3b6670;
+    font-size: 25px;
+    text-decoration: none;
+    text-align: center;
+
+}
+
+.aix {
+    width: 540px;
 
 }
 
 .footer {
     background-color: #3b6670;
     color: #33384c;
-    font-size: 20px;
+    font-size: 40px;
     text-decoration: none;
 }
 
@@ -178,5 +214,5 @@ nav a:hover {
 }
 
 .twitter {
-    
+
 }
