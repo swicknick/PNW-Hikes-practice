@@ -104,7 +104,7 @@ nav a:hover {
 }
 
 .camera {
-
+    
 }
 
 .tripReport {
@@ -141,7 +141,7 @@ nav a:hover {
     font-size: 25px;
     text-decoration: none;
     text-align: center;
-    margin-left: 5.5%;
+    margin-left: 87px;
 
 }
 
@@ -171,9 +171,7 @@ nav a:hover {
     font-size: 25px;
     text-decoration: none;
     text-align: center;
-    margin-left: 5.5%;
-
-
+    margin-left: 87px;
 }
 
 .goatPeak {
@@ -199,20 +197,27 @@ nav a:hover {
     color: #33384c;
     font-size: 40px;
     text-decoration: none;
+    text-align: center;
+    margin-top: 0;
 }
 
 .footerText {
-
+    
 }
 
 .facebook {
+    float: left;
+    margin-left: 465px;
+    padding: 10px;
 
 }
 
 .instagram {
-
+    float: left;
+    padding: 10px;
 }
 
 .twitter {
-
+    float: left;
+    padding: 10px;
 }
