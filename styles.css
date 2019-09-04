@@ -1,6 +1,7 @@
 body {
     margin: 0;
-    font-family: 'Gothic A1', sans-serif;
+    /* font-family: 'Gothic A1', sans-serif; */
+    font-family: 'Bowlby One', cursive;
     font-weight: 500;
 }
 
@@ -92,28 +93,43 @@ nav a:hover {
 
 .sectionDivider {
     background: #3b6670;
+    height: 250px;
 }
 
 .map {
-
+    width: 120px;
+    margin-left: 100px;
+    margin-top: 30px;
+    position: relative;
 }
 .mapLogo {
     color: #acc6be;
     font-size: 20px;
     text-decoration: none;
+    position: absolute;
 }
 
 .camera {
-    
+    width: 125px;
+    margin-left: 300px;
+    margin-top: 30px;
+    position: relative;
+
 }
 
 .tripReport {
     color: #acc6be;
     font-size: 20px;
     text-decoration: none;
+    position: absolute;
+
 }
 
 .park {
+    width: 125px;
+    margin-left: 300px;
+    margin-top: 30px;
+    position: relative;
 
 }
 
@@ -121,6 +137,8 @@ nav a:hover {
     color: #acc6be;
     font-size: 20px;
     text-decoration: none;
+    position: absolute;
+
 }
 
 .recentTrip {
@@ -128,11 +146,16 @@ nav a:hover {
     font-size: 46px;
     text-decoration: none;
     text-align: center;
+    padding: 150px;
+
 }
 
 
 .gridSection {
     background-image: url("img/bg2.png");
+    height: 1500px;
+
+    
 }
 
 .square1 {
@@ -141,13 +164,13 @@ nav a:hover {
     font-size: 25px;
     text-decoration: none;
     text-align: center;
-    margin-left: 87px;
+    margin-left: 195px;
 
 }
 
 
 .cascades {
-    width: 540px;
+    width: 400px;
 
 }
 
@@ -156,12 +179,11 @@ nav a:hover {
     font-size: 25px;
     text-decoration: none;
     text-align: center;
-
-
+    padding-right: 30px;
 }
 
 .crystal {
-    width: 540px;
+    width: 400px;
 
 }
 
@@ -171,11 +193,12 @@ nav a:hover {
     font-size: 25px;
     text-decoration: none;
     text-align: center;
-    margin-left: 87px;
+    margin-left: 225px;
+
 }
 
 .goatPeak {
-    width: 540px;
+    width: 400px;
 
 }
 
@@ -184,11 +207,11 @@ nav a:hover {
     font-size: 25px;
     text-decoration: none;
     text-align: center;
-
+    
 }
 
 .aix {
-    width: 540px;
+    width: 400px;
 
 }
 
@@ -198,7 +221,11 @@ nav a:hover {
     font-size: 40px;
     text-decoration: none;
     text-align: center;
-    margin-top: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 200px;
+    
 }
 
 .footerText {
