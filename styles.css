@@ -92,53 +92,33 @@ nav a:hover {
 }
 
 .sectionDivider {
+    float: left;
     background: #3b6670;
-    height: 250px;
+    padding-right: 40px;
+    padding-left: 69px;
+    padding-top: 20px;
+
 }
 
-.map {
-    width: 120px;
-    margin-left: 100px;
-    margin-top: 30px;
-    position: relative;
-}
 .mapLogo {
     color: #acc6be;
     font-size: 20px;
     text-decoration: none;
-    position: absolute;
-}
-
-.camera {
-    width: 125px;
-    margin-left: 300px;
-    margin-top: 30px;
-    position: relative;
-
+    text-align: center;    
 }
 
 .tripReport {
     color: #acc6be;
     font-size: 20px;
     text-decoration: none;
-    position: absolute;
-
-}
-
-.park {
-    width: 125px;
-    margin-left: 300px;
-    margin-top: 30px;
-    position: relative;
-
+    text-align: center;
 }
 
 .featureList {
     color: #acc6be;
     font-size: 20px;
     text-decoration: none;
-    position: absolute;
-
+    text-align: center;
 }
 
 .recentTrip {
@@ -153,7 +133,7 @@ nav a:hover {
 
 .gridSection {
     background-image: url("img/bg2.png");
-    height: 1500px;
+    height: 1200px;
 
     
 }
@@ -164,7 +144,7 @@ nav a:hover {
     font-size: 25px;
     text-decoration: none;
     text-align: center;
-    margin-left: 195px;
+    margin-left: 140px;
 
 }
 
@@ -179,7 +159,7 @@ nav a:hover {
     font-size: 25px;
     text-decoration: none;
     text-align: center;
-    padding-right: 30px;
+    padding-right: 40px;
 }
 
 .crystal {
@@ -193,7 +173,7 @@ nav a:hover {
     font-size: 25px;
     text-decoration: none;
     text-align: center;
-    margin-left: 225px;
+    margin-left: 175px;
 
 }
 
